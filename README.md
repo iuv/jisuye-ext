@@ -1,7 +1,7 @@
 # jisuye-ext
 极速页-助手 谷歌浏览器插件配置
 ## 配置说明
-```json
+```javascript
 {
   "g": { // google.com
     "jpi": "input[name=q]", // 输入框定位
