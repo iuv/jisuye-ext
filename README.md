@@ -19,7 +19,7 @@
 
 # 插件安装方法
 ## 在线安装
-谷歌应用商店： https://chrome.google.com/webstore/detail/%E6%9E%81%E9%80%9F%E9%A1%B5-%E5%8A%A9%E6%89%8B/knglannafmmagfbkoobfcpnapjbhmpgd?hl=zh-CN
+谷歌应用商店： https://chrome.google.com/webstore/detail/%E6%9E%81%E9%80%9F%E9%A1%B5-%E5%8A%A9%E6%89%8B/gclajogpkhppgjmchfcaapjfboekeadf?hl=zh-CN
 ## 离线安装
 地址： https://jisuye.com/chrome/jisuye.crx
 
